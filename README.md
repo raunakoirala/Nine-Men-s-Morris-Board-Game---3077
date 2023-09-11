@@ -7,10 +7,10 @@ This repository contains the codebase for a Nine Men's Morris (9MM) game applica
 
 Project Overview:
 
-Languages Used: Java (for the game logic and backend), Swing (for GUI development).
-Software Architecture: The project follows sound software architecture principles, featuring class diagrams that depict the code's structure.
-Version Control: Git was used for version control, allowing collaborative development and effective code management.
-Documentation: Comprehensive documentation is provided, including user stories, design rationales, and instructions for building and running the game executable.
+Languages Used: Java (for the game logic and backend), Swing (for GUI development).\
+Software Architecture: The project follows sound software architecture principles, featuring class diagrams that depict the code's structure.\
+Version Control: Git was used for version control, allowing collaborative development and effective code management.\
+Documentation: Comprehensive documentation is provided, including user stories, design rationales, and instructions for building and running the game executable.\
 Cross-Platform Development: The game application is built to run on various platforms, making it accessible to a wider audience.
 
 
