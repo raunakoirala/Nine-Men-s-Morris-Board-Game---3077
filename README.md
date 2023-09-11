@@ -12,13 +12,17 @@ Software Architecture: The project follows sound software architecture principle
 Version Control: Git was used for version control, allowing collaborative development and effective code management.
 Documentation: Comprehensive documentation is provided, including user stories, design rationales, and instructions for building and running the game executable.
 Cross-Platform Development: The game application is built to run on various platforms, making it accessible to a wider audience.
+
+
 Key Skills Demonstrated:
 
-Proficiency in Java and Swing for GUI development.
-Sound software architecture and design principles.
-Effective use of Git for version control.
-Thorough documentation practices.
+Proficiency in Java and Swing for GUI development.\
+Sound software architecture and design principles.\
+Effective use of Git for version control.\
+Thorough documentation practices.\
 Cross-platform development expertise.
+
+
 Project Highlights:
 
 Developed a fully functional 9MM game with both basic and advanced features.
